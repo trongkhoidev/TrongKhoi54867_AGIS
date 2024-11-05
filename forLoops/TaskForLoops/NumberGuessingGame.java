@@ -1,4 +1,4 @@
-package java_cmu.forLoops;
+package java_cmu.forLoops.TaskForLoops;
 import java.util.*;
 import java.util.Scanner;
 
