@@ -1,8 +1,0 @@
-# Ignore build and IDE-related files
-build/
-dist/
-nbproject/
-*.class
-*.jar
-*.properties
-*.XL
